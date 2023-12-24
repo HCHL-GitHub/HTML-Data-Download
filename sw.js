@@ -1,6 +1,6 @@
 var current_cache = "pwa-assets";
 let filesToCache = [
-    "/data.nds",
+    "data.nds",
 ];
 
 this.addEventListener("install", (event) => {

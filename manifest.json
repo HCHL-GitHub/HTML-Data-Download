@@ -1,10 +1,10 @@
 {
-    "name": "Pokémon Black",
-    "short_name": "Pokémon Black",
+    "name": "Pokémon HeartGold",
+    "short_name": "Pokémon HeartGold",
     "start_url": ".",
     "display": "fullscreen",
     "background_color": "black",
-    "description": "Pokémon Black",
+    "description": "Pokémon HeartGold",
     "icons": [{
       "src": "icon.png",
       "sizes": "512x512",
